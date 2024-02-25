@@ -33,10 +33,11 @@ header nav {
 
 header p {
   color: var(--fourth);
-  font-weight: bold;
+  font-weight: bolder;
   margin-top: 14px;
   font-size: large;
   letter-spacing: 8px;
+  font-size: 1.4rem;
 }
 
 header nav a {
